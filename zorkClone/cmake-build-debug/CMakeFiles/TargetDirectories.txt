@@ -1,0 +1,3 @@
+C:/Users/oweno/CLionProjects/finalprojectcstry2/cmake-build-debug/CMakeFiles/finalprojectcstry2.dir
+C:/Users/oweno/CLionProjects/finalprojectcstry2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/oweno/CLionProjects/finalprojectcstry2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
